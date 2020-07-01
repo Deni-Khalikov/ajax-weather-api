@@ -32,5 +32,3 @@
 
 - Use the API of https://unsplash.com/ to show a photo of the city they entered in the form.
 - Use a graph library like Google Graphs to show a line graph of the temperature over time.
-
-[Github Page](https://deni-khalikov.github.io/ajax-weather-api/)
